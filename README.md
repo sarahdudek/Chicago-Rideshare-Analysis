@@ -4,6 +4,8 @@ Repository for Data Engineering Platforms final project at the University of Chi
 
 This project is a look at the impact of rideshare transportation on traffic in the city of Chicago. Our goal is to compare pre-rideshare taxi trip data with current rideshare data. We will also cross-reference this data with CTA train and bus stops.
 
+[Chicago Rideshare Data - Process and Analysis](https://drive.google.com/file/d/1O5o_2Mt-uwMzP4Lqb_hOLXNflWYPnpVm/view?usp=sharing)
+
 ## Questions to Answer
 
 - What is the impact of Transportation Network Providers on traffic congestion in Chicago?
